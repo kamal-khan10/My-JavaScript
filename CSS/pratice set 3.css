@@ -7,7 +7,8 @@
 .wishlist-button{
   padding: 5px 50px;
   border-radius: 10px;
-  border: 2px solid black
+  border: 2px solid black;
+  text-transform: uppercase;
 
 
 }
