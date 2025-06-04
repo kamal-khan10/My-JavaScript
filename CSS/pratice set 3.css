@@ -1,5 +1,5 @@
 .bag-button{
-  background-color: lightgreen;
+  background-color: red;
   border: none;
   padding: 5px 15px;
   border-radius: 10px;
@@ -9,6 +9,7 @@
   border-radius: 10px;
   border: 2px solid black;
   text-transform: uppercase;
+
 
 
 }
